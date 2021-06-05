@@ -1,0 +1,73 @@
+html,
+
+.main {
+  width: auto;
+  height: 1000px;
+}
+
+#flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+#profile {
+  margin-top: 5%;
+  margin-left: 4%;
+}
+
+#MessagesPublic {
+  margin-top: 4%;
+  margin-left: 4%;
+  margin-right: 3%;
+}
+
+#name-profile {
+  color: goldenrod;
+}
+
+#your-profile {
+  color: black;
+} 
+
+
+#new-post {
+  margin-top: 6.5%;
+  margin-right: 5%;
+  height: 25%;
+}
+
+#formMessage {
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+#find-profile {
+  margin-left: 2%;
+  color: goldenrod;
+}
+
+#writeProfile {
+  width: 95%;
+  height: 40%;
+  margin-left: 2%;
+}
+
+
+#datePost {
+  margin-left: 2%;
+}
+
+#submitPost {
+  color: goldenrod;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+#followProfiles {
+  color: black;
+}
+
+#followers {
+  color: gold;
+}
+

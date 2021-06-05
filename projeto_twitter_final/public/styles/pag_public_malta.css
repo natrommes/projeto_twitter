@@ -1,0 +1,84 @@
+html,
+
+.main {
+  width: auto;
+  height: auto;
+}
+
+#flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+#profile {
+  margin-top: 5%;
+  margin-left: 4%;
+}
+
+#MessagesPublic {
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+#name-profile {
+  color: goldenrod;
+}
+
+#your-profile {
+  color: black;
+} 
+
+
+#new-post {
+  margin-top: 5%;
+  margin-right: 3%;
+  margin-bottom: 5%;
+}
+
+#box-new-post {
+  margin-top: 3.7%;
+  margin-left: 5%;
+  width: 90%;
+}
+
+#formMessage {
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+#create-message {
+  margin-left: 2%;
+  color: goldenrod;
+}
+
+
+#findPost {
+  width: 95%;
+  height: 40%;
+  margin-left: 2%;
+}
+
+#datePost {
+  margin-left: 2%;
+}
+
+#submitPost {
+  color: goldenrod;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+#btn-custom {
+  margin-top: 2%;
+  padding: 1px 15px 3px 2px;
+  border-radius: 50px;
+  width: 12%;
+  color: goldenrod;
+}
+
+#btn-icon {
+  padding: 5px;
+  background:goldenrod;
+  
+}

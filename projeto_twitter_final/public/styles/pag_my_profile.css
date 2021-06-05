@@ -1,0 +1,118 @@
+html,
+
+.main {
+  width: auto;
+  height: auto;
+ }
+
+#flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+
+#profile {
+  margin: 5%;
+  margin-left: 4%;
+  width: 45%;
+  height: 60%;
+}
+
+#imagePorfile {
+  margin-top: 3%; 
+  margin-left: 55%; 
+  width: 120px; 
+  height: 150px;
+  border-radius: 12%;
+  border: solid 0.5px goldenrod;
+}
+
+
+#tellAbout {
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 280px;
+  margin-left: -5px;
+  border: solid 2px white; 
+}
+
+.follow {
+  color: black;
+  margin-left: 4%;
+  font-size: 13px;
+}
+
+#blockImagem {
+  margin-left: 52%;
+  margin-top: -22%;
+}
+
+#choose-picture {
+  font-size: 10px;
+}
+
+#button-upload {
+  background-color: white;
+  color: gold;
+  border: 2px solid #e7e7e7;
+  font-size: 10px;
+}
+
+
+#new-post {
+  margin-top: 5.2%;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+
+#box-new-post {
+  margin-top: 6%;
+  margin-left: 5%;
+  width: 90%;
+}
+
+#formMessage {
+  margin-bottom: 2%;
+  margin-top: 5%;
+}
+
+#create-message {
+  margin-left: 2%;
+  color: goldenrod;
+}
+
+#writePost {
+  width: 95%;
+  height: 40%;
+  margin-left: 2%;
+}
+
+#datePost {
+  margin-left: 2%;
+}
+
+#submitPost {
+  color: goldenrod;
+  margin-left: 2%;
+  margin-top: 2%;
+}
+
+
+#flex-container-2{
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+#messagesFriends {
+  margin-top: 1%;
+  margin-left: 4%;
+}
+
+#name-profile {
+  color: goldenrod;
+}
+
+#your-profile {
+  color: black;
+  font-size: 18px;
+} 
